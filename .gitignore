@@ -123,3 +123,5 @@ backend.tf
 
 *.bin
 **/volumes
+/public/fonts
+**/public/fonts

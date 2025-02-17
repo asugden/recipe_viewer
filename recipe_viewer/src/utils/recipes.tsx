@@ -75,3 +75,13 @@ export async function fetchRecipes() {
     console.error('Error loading recipe:', error);
   }
 }
+
+export function categories(recipes: Recipe[]) {
+  const out = new Set(recipes.filter((recipe) => recipe.category).map((recipe) => recipe.category));
+  return Array.from(out);
+}
+
+export function ingredients(recipes: Recipe[]) {
+  const out = new Set(recipes.filter((recipe) => recipe.category).map((recipe) => recipe.category));
+  return Array.from(out);
+}
