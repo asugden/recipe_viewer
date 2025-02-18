@@ -21,7 +21,7 @@ category,Clean,,,
 description,,,,
 source,tuxedono2,,,
 garnish,Cherry,,,
-ingredients,1,1,2,London Dry Gin
+ingredients,1,1,2,Gin (London Dry)
 ,,3,4,Lillet Blanc
 ,,3,4,Orange juice
 ,1,,,Orange bitters
@@ -29,7 +29,7 @@ title,"Army, Navy, and the Marines",,,
 category,Clean,,,
 description,"A delicate sweet martini, Lauren's favorite",,,
 source,Cocktails Distilled,,,
-ingredients,,3,4,Empress Gin
+ingredients,,3,4,Gin (Empress)
 ,,3,4,Dry Vermouth
 ,,3,4,Orgeat
 ,,3,4,Lemon juice
@@ -47,7 +47,7 @@ category,Welcoming,,,
 description,Like a warm childhood snack,,,
 source,Arthur,,,
 garnish,Lemon peel,,,
-ingredients,2,,,Aged Rum
+ingredients,2,,,Rum (Aged)
 ,,1,2,Coffee liqueur
 ,,1,3,Honey syrup
 ,,1,4,Amaro Nonino
@@ -66,8 +66,8 @@ category,Clean,,,
 description,"Shockingly well balanced, with the rum and tequila decreasing the floralness",,,
 source,,,,
 garnish,Orange peel,,,
-ingredients,,3,4,White Rum
-,,3,4,Reposado Tequila
+ingredients,,3,4,Rum (Light)
+,,3,4,Tequila (Reposado)
 ,,3,4,St Germain
 ,,3,4,Lime juice
 ,1,,,Orange bitters
@@ -106,7 +106,7 @@ category,Tiki,,,
 description,"An all-time great, ""tiki on a ski vacation""",,,
 source,tuxedono2,,,
 garnish,Pineapple wedge,,,
-ingredients,1,1,2,Aged Rum
+ingredients,1,1,2,Rum (Aged)
 ,,3,4,Chartreuse
 ,1,,,Pineapple juice
 ,,1,2,Lime juice
@@ -147,7 +147,7 @@ break,1,,,
 source,tuxedono2,,,
 garnish,Orange peel,,,
 ingredients,1,1,2,Bourbon
-,,3,4,Tequila Reposado
+,,3,4,Tequila (Reposado)
 ,,3,4,Cherry Heering
 ,2,,,Orange bitters
 ,,,,Angostura
@@ -176,8 +176,8 @@ category,Tropical,,,
 description,A complex tiki drink,,,
 source,tuxedono2,,,
 garnish,Lime peel,,,
-ingredients,1,1,2,Dark Rum
-,,3,4,Light Rum
+ingredients,1,1,2,Rum (Dark)
+,,3,4,Rum (Light)
 ,,1,2,Falernum
 ,,1,3,Grand Marnier
 ,,1,4,Lime juice
@@ -221,7 +221,7 @@ description,Tropical and mainland: smoky and and fruity,,,
 source,,,,
 garnish,Lemon peel,,,
 ingredients,1,,,Mezcal
-,1,,,Dry Gin
+,1,,,Gin (Dry)
 ,1,,,Pineapple juice
 ,,1,2,Lemon juice
 ,,1,2,St Germain
@@ -239,7 +239,7 @@ category,Digestive,,,
 description,,,,
 source,tuxedono2,,,
 garnish,Orange peel,,,
-ingredients,2,,,Reposado Tequila
+ingredients,2,,,Tequila (Reposado)
 ,,1,2,Cynar
 ,,1,4,Simple
 ,,1,4,Honey syrup
@@ -260,8 +260,8 @@ category,Rich,,,
 description,,,,
 source,,,,
 garnish,Orange peel,,,
-ingredients,1,,,Aged Rum
-,,1,2,Dark Rum
+ingredients,1,,,Rum (Aged)
+,,1,2,Rum (Dark)
 ,,1,2,Coffee liqueur
 ,,1,4,Walnut liqueur
 ,,,,Mole bitters
@@ -285,7 +285,7 @@ source,,,,
 garnish,Lime wedge,,,
 ingredients,1,1,4,Chartreuse
 ,,1,2,Falernum
-,,1,4,Aged Rum
+,,1,4,Rum (Aged)
 ,1,,,Pineapple juice
 ,,3,4,Lime juice
 ,5,,,Woodford bitters
@@ -314,7 +314,7 @@ description,July 4th's Gin Philip Sousa,,,
 source,Arthur,,,
 garnish,Empress Gin floated,,,
 ingredients,1,1,2,Watermelon  Gin
-,,1,2,Aged Rum
+,,1,2,Rum (Aged)
 ,,1,2,Simple
 ,,1,4,Lemon juice
 ,,1,8,Pink pepper
@@ -324,7 +324,7 @@ category,Digestive,,,
 description,"A lightly sweet, lightly citrus, decently bitter martini",,,
 source,,,,
 garnish,Orange peel,,,
-ingredients,1,1,2,Dry Gin
+ingredients,1,1,2,Gin (Dry)
 ,1,1,2,Sweet Vermouth
 ,,1,6,Fernet Branca
 ,,,,Orange bitters
@@ -333,7 +333,7 @@ category,Clean,,,
 description,"Tart, a bit bitter, complex, yet clean",,,
 source,tuxedono2,,,
 garnish,Lime wheel,,,
-ingredients,1,1,2,Rhum Agricole
+ingredients,1,1,2,Rhum Agricole/Cachaça
 ,,3,4,Falernum
 ,,1,2,Suze
 ,,3,4,Lime juice
@@ -359,9 +359,9 @@ category,Milk,,,
 description,Holiday tequila,,,
 source,tuxedono2,,,
 garnish,Star Anise,,,
-ingredients,1,1,2,Reposado Tequila
+ingredients,1,1,2,Tequila (Reposado)
 ,1,,,Coffee liqueur
-,1,,,Heavy Cream
+,1,,,Heavy cream
 ,,1,2,Cinnamon syrup
 ,,,,dash Absinthe
 title,La Dominicana,,,
@@ -369,7 +369,7 @@ category,Milk,,,
 description,,,,
 source,tuxedono2,,,
 garnish,Whipped Cream,,,
-ingredients,1,1,2,Dark Rum
+ingredients,1,1,2,Rum (Dark)
 ,1,1,2,Coffee liqueur
 title,Corpse Reviver,,,
 category,Welcoming,,,
@@ -407,7 +407,7 @@ description,,,,
 source,,,,
 break,1,,,
 garnish,,,,
-ingredients,2,,,Aged Rum
+ingredients,2,,,Rum (Aged)
 ,,1,4,Cynar
 ,,1,4,Limoncello
 ,,1,4,Honey syrup
@@ -573,20 +573,20 @@ category,Advanced,,,
 description,Tequila-forward tang,,,
 source,,,,
 garnish,Lemon peel,,,
-ingredients,1,1,2,Tequila Reposado
+ingredients,1,1,2,Tequila (Reposado)
 ,1,,,Amaro Averna
 ,,3,4,Lemon juice
 ,,1,4,Maple syrup
 ,,,,Scrappy's bitters
 title,Corn n Oil,,,
 category,Welcoming,,,
-description,,,,
+description,A float of dark rum over warm spices,,,
 source,,,,
 garnish,Lime wedge,,,
-ingredients,1,1,2,Aged Rum
+ingredients,1,1,2,Rum (Aged)
 ,,1,2,Falernum
 ,,1,4,Lime juice
-,,1,2,"Blackstrap rum, floated"
+,,1,2,Rum (Dark)
 ,2,,,Angostura
 title,Confederacy of Ounces,,,
 category,Rich,,,
@@ -603,7 +603,7 @@ category,Welcoming,,,
 description,,,,
 source,,,,
 garnish,Smoked cinnamon stick,,,
-ingredients,39,,,Cask Rum
+ingredients,39,,,Rum (Aged)
 ,15,,,Cold brew
 ,6,,,Maple syrup
 ,,,,Angostura
@@ -643,7 +643,7 @@ category,Welcoming,,,
 description,Violet candy for the under-75s,,,
 source,,,,
 garnish,Cherry,,,
-ingredients,2,,,Empress Gin
+ingredients,2,,,Gin (Empress)
 ,,1,2,Luxardo
 ,,1,2,Crème de Violette
 ,,1,3,Lemon juice
@@ -675,7 +675,7 @@ category,Advanced,,,
 description,"The most advanced, shockingly well balanced",,,
 source,Food and wine,,,
 garnish,Lime peel,,,
-ingredients,1,1,2,Tequila Reposado
+ingredients,1,1,2,Tequila (Reposado)
 ,,1,2,Sweet Vermouth
 ,,1,2,Amaro Sfumato
 title,Boerum Hill,,,
@@ -701,7 +701,7 @@ category,Rich,,,
 description,Fruity yet full,,,
 source,Drinking Like Ladies,,,
 garnish,Orange peel,,,
-ingredients,1,1,2,Tequila Reposado
+ingredients,1,1,2,Tequila (Reposado)
 ,,3,4,Aperol
 ,,1,2,Cherry Heering
 ,2,,,Angostura
@@ -730,7 +730,7 @@ source,Death & Co,,,
 garnish,Grapefruit wedge,,,
 ingredients,2,,,Pisco
 ,,3,4,Dry Vermouth
-,,1,2,Pamplemousse Liqueur
+,,1,2,Pamplemousse
 ,,1,2,St Germain
 ,,1,4,Falernum
 title,Poet's Dream,,,
@@ -746,7 +746,7 @@ category,Tropical,,,
 description,Tiki with a kick of bitter,,,
 source,Variation on tuxedo no 2 Tour le Carbet with Chachaca instead of Rhum Agricole,,,
 garnish,Lime wheel,,,
-ingredients,2,,,Cachaca
+ingredients,2,,,Rhum Agricole/Cachaça
 ,,3,4,Falernum
 ,,1,2,Suze
 ,,3,4,Lime juice
@@ -755,8 +755,8 @@ category,Rich,,,
 description,"Lots of flavor, benefits from shaking instead of stirring",,,
 source,Variant on the Revenant from Punchdrunk,,,
 garnish,Orange peel,,,
-ingredients,1,1,4,Cognac
-,,3,4,Pamplemousse Liqueur
+ingredients,1,1,4,Brandy (Cognac)
+,,3,4,Pamplemousse
 ,,1,2,Blackstrap Rum
 ,,1,2,Amaro Averna
 ,,,,dash Absinthe
@@ -784,14 +784,14 @@ source,orgiinally Great Satan,,,
 garnish,,,,
 ingredients,1,,,Mezcal
 ,1,,,Amaro Ramazzotti
-,1,,,Sweet Vermouth or Punt e Mes
+,1,,,Punt e Mes
 title,Jungle Bird,,,
 category,Tiki,,,
 description,"Tropical, fruity, and red with a finish of bitter",,,
 source,"Morcilla, Add coffee beans to Campari or PX sherry instead of simple",,,
 garnish,,,,
-ingredients,1,,,White Rum
-,1,2,,Aged Rum
+ingredients,1,,,Rum (Light)
+,1,2,,Rum (Aged)
 ,1,1,2,Pineapple juice
 ,,3,4,Campari
 ,,1,2,Lime juice
@@ -801,8 +801,8 @@ category,Tiki,,,
 description,An unusual tiki drink with winter spices,,,
 source,Variant on the Test Pilot that is sweeter and more different from other Tiki drinks,,,
 garnish,Star anise,,,
-ingredients,1,1,2,Light Rum
-,,3,4,Dark Rum
+ingredients,1,1,2,Rum (Light)
+,,3,4,Rum (Aged)
 ,,1,2,Falernum
 ,,1,2,Grand Marnier
 ,,1,3,Lime
@@ -814,7 +814,7 @@ category,Tiki,,,
 description,Light and delicate grape and grapefruit,,,
 source,Variant on Hold up from Punchdrink,,,
 garnish,Lemon twist,,,
-ingredients,,3,4,White Rum
+ingredients,,3,4,Rum (Light)
 ,,3,4,Lillet Blanc
 ,,3,4,Pamplemousse
 ,,3,4,Lemon
@@ -857,7 +857,7 @@ category,Digestive,,,
 description,Warm spicey and a bit tangy,,,
 source,Death & Co,,,
 garnish,Orange peel,,,
-ingredients,2,,,Aged Rum
+ingredients,2,,,Rum (Aged)
 ,,3,4,Cardamaro
 ,,1,4,Benedictine
 ,,,1,Clove extract
@@ -867,7 +867,7 @@ category,Tiki,,,
 description,"Sweet, floral, light",,,
 source,Difford's,,,
 garnish,Cherry,,,
-ingredients,1,,,Aged Rum
+ingredients,1,,,Rum (Aged)
 ,,2,3,Strega
 ,,1,3,Orgeat
 ,,1,2,Lemon juice
@@ -923,7 +923,7 @@ category,Advanced,,,
 description,"A lot of flavor, combining gin, grape, and herb",,,
 source,Cocktail Codex,,,
 garnish,Cherry,,,
-ingredients,1,1,2,Old Tom Gin
+ingredients,1,1,2,Gin (Old Tom)
 ,,1,2,Brandy
 ,,3,4,Sweet Vermouth
 ,,1,8,Strega
@@ -933,7 +933,7 @@ category,Tiki,,,
 description,"A classic-- not overly sweet, perfectly tiki",,,
 source,tuxedono2,,,
 garnish,3 Cherries & Pineapple Frond,,,
-ingredients,2,,,Dark Rum
+ingredients,2,,,Rum (Dark)
 ,,1,4,Falernum
 ,,1,4,Allspice Dram
 ,,1,2,Lime juice
@@ -984,7 +984,7 @@ source,Punchdrink,,,
 garnish,Cucumber,,,
 ingredients,1,1,4,Tequlia
 ,1,,,Cardamaro
-,,3,4,Vermouth (Sweet)
+,,3,4,Sweet Vermouth
 ,,1,4,Cynar
 title,Anything Besides Water,,,
 category,,,,
@@ -1015,7 +1015,7 @@ ingredients,2,,,Rye
 ,,1,2,China China
 ,,1,2,Suze
 ,,1,2,Sweet Vermouth
-,,2,3,tsp Allspice Dram
+,,1,8,Allspice Dram
 ,,,,
 ,,,,
 ,,,,
