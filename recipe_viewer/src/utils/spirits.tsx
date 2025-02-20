@@ -22,7 +22,7 @@ export function getSpirits() {
     "Pisco",
     "Gin",
     "Tequila",
-    "Cachaca",
+    "Rhum Agricole/Cachaça",
     "Vodka",
   ].sort();
   // return out ? Array.from(out).filter((v) => v.trim().length > 0) : [];

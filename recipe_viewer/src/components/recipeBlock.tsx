@@ -88,9 +88,10 @@ function fractionCharacter(
 
 interface Props {
   recipe: Recipe;
+  single?: boolean;
 }
 
-function RecipeBlockValue({ recipe }: Props) {
+function RecipeBlockValue({ recipe, single = false }: Props) {
   return (
     <Box
       bg="rgba(248,248,248,0.8)"
@@ -100,7 +101,7 @@ function RecipeBlockValue({ recipe }: Props) {
         sm: "400px",
         md: "540px",
         lg: "410px",
-        xl: "max(540px, 80%)",
+        xl: single ? "540px" : "max(540px, 80%)",
       }}
     >
       <div>
@@ -116,7 +117,7 @@ function RecipeBlockValue({ recipe }: Props) {
           </Text>
           <Tag.Root
             ml="auto"
-            mt={2}
+            mt={1}
             fontFamily="var(--font-gotham)"
             letterSpacing={1}
             fontSize="12px"

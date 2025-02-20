@@ -1,10 +1,12 @@
 "use client";
 
 import FilterPopover from "@/components/filterPopover";
+import { LuckIcon } from "@/components/luckIcon";
 import { RecipeBlock } from "@/components/recipeBlock";
 import { Recipe } from "@/utils/recipes";
 import { getSpirits } from "@/utils/spirits";
-import { Box, Button, Center, SimpleGrid } from "@chakra-ui/react";
+import { Box, Button, Center, IconButton, SimpleGrid } from "@chakra-ui/react";
+import { useRouter } from "next/navigation";
 import { useMemo, useState } from "react";
 
 function getCategories(recipes: Recipe[]) {
@@ -27,6 +29,7 @@ function getIngredients(recipes: Recipe[]) {
 }
 
 export default function FilteredRecipeList({ recipes }: { recipes: Recipe[] }) {
+  const router = useRouter();
   const [categoryFilter, setCategoryFilter] = useState<string[]>([]);
   const [ingredientFilter, setIngredientFilter] = useState<string[]>([]);
   const [spiritFilter, setSpiritFilter] = useState<string[]>([]);
@@ -64,6 +67,20 @@ export default function FilteredRecipeList({ recipes }: { recipes: Recipe[] }) {
           filter={spiritFilter}
           fn={setSpiritFilter}
         />
+        <IconButton
+          fontSize="20px"
+          bg="none"
+          borderTop="1px solid black"
+          borderBottom="1px solid black"
+          onClick={() => {
+            const num = Math.floor(Math.random() * recipes.length);
+            router.push(`/recipe/${recipes[num].title}`);
+          }}
+          _hover={{ fontWeight: "bold" }}
+          size={{ base: "sm", sm: "md" }}
+        >
+          <LuckIcon />
+        </IconButton>
         {/* <FilterPopover
           title="Ingredient"
           options={ingredients}

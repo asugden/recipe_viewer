@@ -1,6 +1,6 @@
 ﻿title,Paper Plane,,,
 category,Digestive,,,
-description,"Complex citrus and soda, lightly bitter",,,
+description,"Complex citrus and soda flavors, lightly bitter",,,
 source,,,,
 garnish,Lemon peel,,,
 ingredients,,3,4,Bourbon
@@ -9,7 +9,7 @@ ingredients,,3,4,Bourbon
 ,,3,4,Lemon juice
 title,Coldfeet,,,
 category,Advanced,,,
-description," A flavor punch to the face, odd",,,
+description," A flavor punch to the face, jump in head first to weird",,,
 source,,,,
 garnish,Cherry,,,
 ingredients,2,,,Gin
@@ -18,7 +18,7 @@ ingredients,2,,,Gin
 ,,1,8,Fernet Branca
 title,Abbey,,,
 category,Clean,,,
-description,,,,
+description,One of our most delicate drinks-- lightly sweet and fruity,,,
 source,tuxedono2,,,
 garnish,Cherry,,,
 ingredients,1,1,2,Gin (London Dry)
@@ -54,7 +54,7 @@ ingredients,2,,,Rum (Aged)
 ,,,,Saline
 title,Division Bell,,,
 category,Digestive,,,
-description,"Fruit tempered by smoke, big fan",,,
+description,"Fruit tempered by smoke, well balanced",,,
 source,Barfly,,,
 garnish,Grapefruit peel,,,
 ingredients,1,,,Mezcal
@@ -74,7 +74,7 @@ ingredients,,3,4,Rum (Light)
 title,Sunny Gray Day,,,
 category,Advanced,,,
 break,1,,,
-description,,,,
+description,A birthday drink for Stephanie with complexity from yuzu and soy,,,
 source,Crop top variant by Arthur for Stephanie,,,
 garnish,4 drops soy sauce,,,
 ingredients,,3,4,Gin
@@ -83,7 +83,7 @@ ingredients,,3,4,Gin
 ,,3,4,Yuzu juice
 title,Elisir Lungavita,,,
 category,Milk,,,
-description,,,,
+description,An excellent milk punch that is boozy and an easy drinker,,,
 source,Milk punch variant from tuxedono2 by Arthur,,,
 garnish,Grated nutmeg,,,
 ingredients,2,,,Bourbon
@@ -102,7 +102,7 @@ ingredients,1,1,2,Mezcal
 ,4,,,Celery bitters
 ,,,,Saline
 title,Apres-Ski Swizzle,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,"An all-time great, ""tiki on a ski vacation""",,,
 source,tuxedono2,,,
 garnish,Pineapple wedge,,,
@@ -133,7 +133,7 @@ ingredients,1,1,2,Tequila
 ,2,,,Peychaud's
 title,Saladito,,,
 category,Clean,,,
-description,,,,
+description,A smoky mix between a Bee's Knees and a Margarita,,,
 source,tuxedono2,,,
 garnish,Cayenne,,,
 ingredients,2,,,Mezcal
@@ -142,7 +142,7 @@ ingredients,2,,,Mezcal
 ,,,,Saline
 title,And to all a goodnight,,,
 category,Rich,,,
-description,,,,
+description,A split base with Tequila offseting fruit,,,
 break,1,,,
 source,tuxedono2,,,
 garnish,Orange peel,,,
@@ -163,7 +163,7 @@ ingredients,2,,,Rye
 ,,,,Saline
 title,Champs Elysees,,,
 category,Rich,,,
-description,,,,
+description,Chartreuse on display,,,
 break,1,,,
 source,tuxedono2,,,
 garnish,Lemon peel,,,
@@ -172,8 +172,8 @@ ingredients,1,1,4,Brandy
 ,,3,4,Lemon juice
 ,,1,2,Simple
 title,Test Pilot,,,
-category,Tropical,,,
-description,A complex tiki drink,,,
+category,Tropical/Tiki,,,
+description,A complex tiki drink with extra spices,,,
 source,tuxedono2,,,
 garnish,Lime peel,,,
 ingredients,1,1,2,Rum (Dark)
@@ -185,7 +185,7 @@ ingredients,1,1,2,Rum (Dark)
 ,,,,dash Absinthe
 title,Spruce Goose,,,
 category,Clean,,,
-description,,,,
+description,A bit of complexity on a Bee's Knees,,,
 source,tuxedono2,,,
 garnish,Lime peel,,,
 ingredients,2,,,Gin
@@ -195,7 +195,7 @@ ingredients,2,,,Gin
 ,,,,Saline
 title,18th Century,,,
 category,Advanced,,,
-description,"A bit weird, but worth it",,,
+description,"The funk of Arrack is accentuated, but worth it",,,
 source,,,,
 garnish,,,,
 ingredients,1,1,2,Batavia Arrack
@@ -216,7 +216,7 @@ ingredients,1,1,2,Rye
 ,4,,,Absinthe
 ,,,,Angostura
 title,Paris is Burning,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,Tropical and mainland: smoky and and fruity,,,
 source,,,,
 garnish,Lemon peel,,,
@@ -279,7 +279,7 @@ ingredients,1,1,2,Bourbon
 ,,,,Angostura
 ,,,,Saline
 title,Chartreuse Swizzle,,,
-category,Tropical,,,
+category,Tropical/Tiki,,,
 description,,,,
 source,,,,
 garnish,Lime wedge,,,
@@ -423,7 +423,7 @@ ingredients,1,,,Gin
 ,,1,3,St Germain
 ,,,,Orange bitters
 title,Scorpion Rock,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,Rich and full and a bit unusual,,,
 source,Note that pineapple and lemon juices have been shortened,,,
 garnish,over ice,,,
@@ -436,7 +436,7 @@ ingredients,1,,,Mezcal
 ,,,,Mole bitters
 ,2,,,Angostura
 title,Prestige,,,
-category,Tropical,,,
+category,Tropical/Tiki,,,
 description,,,,
 source,,,,
 garnish,Lime peel,,,
@@ -447,7 +447,7 @@ ingredients,1,3,4,White Rum
 ,,1,2,Lime juice
 ,,1,4,Simple
 title,Algonquin,,,
-category,Tropical,,,
+category,Tropical/Tiki,,,
 description,,,,
 source,,,,
 garnish,,,,
@@ -522,7 +522,7 @@ ingredients,50,,,Bourbon
 ,2,,,Orange bitters
 title,Messy Martini,,,
 category,Clean,,,
-description,,,,
+description,Giving the martini a bit of flavor,,,
 source,Arthur,,,
 garnish,Green Olive,,,
 ingredients,2,,,Gin
@@ -540,7 +540,7 @@ ingredients,2,,,Bourbon
 ,,,,Angostura
 title,French Pearl (Perle d'Hiver),,,
 category,Clean,,,
-description,Extremely balanced herbs,,,
+description,Delicate with balanced herbs,,,
 source,Arthur,,,
 garnish,Lime peel,,,
 ingredients,2,,,Gin
@@ -742,7 +742,7 @@ ingredients,1,,,Gin
 ,1,,,Dry Vermouth
 ,1,,,Benedictine
 title,Tour de Botes,,,
-category,Tropical,,,
+category,Tropical/Tiki,,,
 description,Tiki with a kick of bitter,,,
 source,Variation on tuxedo no 2 Tour le Carbet with Chachaca instead of Rhum Agricole,,,
 garnish,Lime wheel,,,
@@ -786,7 +786,7 @@ ingredients,1,,,Mezcal
 ,1,,,Amaro Ramazzotti
 ,1,,,Punt e Mes
 title,Jungle Bird,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,"Tropical, fruity, and red with a finish of bitter",,,
 source,"Morcilla, Add coffee beans to Campari or PX sherry instead of simple",,,
 garnish,,,,
@@ -797,7 +797,7 @@ ingredients,1,,,Rum (Light)
 ,,1,2,Lime juice
 ,,1,2,Demerara syrup
 title,Maiden Voyager,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,An unusual tiki drink with winter spices,,,
 source,Variant on the Test Pilot that is sweeter and more different from other Tiki drinks,,,
 garnish,Star anise,,,
@@ -810,7 +810,7 @@ ingredients,1,1,2,Rum (Light)
 ,,,,Angostura
 ,,,,dash Absinthe
 title,The Pause,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,Light and delicate grape and grapefruit,,,
 source,Variant on Hold up from Punchdrink,,,
 garnish,Lemon twist,,,
@@ -822,7 +822,7 @@ ingredients,,3,4,Rum (Light)
 ,,,,Celery bitters
 ,,,,Star Anise
 title,Singapore Sling,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,"A classic, light and fruity",,,
 source,Liquor.com,,,
 garnish,Cherry,,,
@@ -863,7 +863,7 @@ ingredients,2,,,Rum (Aged)
 ,,,1,Clove extract
 ,,,1,Angostura
 title,Witches' Daiquiri,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,"Sweet, floral, light",,,
 source,Difford's,,,
 garnish,Cherry,,,
@@ -929,7 +929,7 @@ ingredients,1,1,2,Gin (Old Tom)
 ,,1,8,Strega
 ,1,,,Woodford bitters
 title,Three Dots and a Dash,,,
-category,Tiki,,,
+category,Tropical/Tiki,,,
 description,"A classic-- not overly sweet, perfectly tiki",,,
 source,tuxedono2,,,
 garnish,3 Cherries & Pineapple Frond,,,
@@ -976,9 +976,9 @@ ingredients,2,,,Gin
 ,,,,
 ,,,,
 ,,,,
-TESTING,,,,
+,,,,
 title,False Start,,,
-category,,,,
+category,Testing,,,
 description,,,,
 source,Punchdrink,,,
 garnish,Cucumber,,,
@@ -987,7 +987,7 @@ ingredients,1,1,4,Tequlia
 ,,3,4,Sweet Vermouth
 ,,1,4,Cynar
 title,Anything Besides Water,,,
-category,,,,
+category,Testing,,,
 description,,,,
 source,Punchdrink,,,
 garnish,,,,
@@ -997,7 +997,7 @@ ingredients,2,,,Rye
 ,,,,Chocolate bitters
 ,,,,Fenugreek tincture
 title,Artichoke Hold,,,
-category,,,,
+category,Testing,,,
 description,,,,
 source,Punchdrink,,,
 garnish,Mint,,,
@@ -1007,7 +1007,7 @@ ingredients,,3,4,Rum (Jamaican)
 ,,3,4,Lime juice
 ,,1,2,Orgeat
 title,Erin,,,
-category,,,,
+category,Testing,,,
 description,,,,
 source,Tuxedono2,,,
 garnish,Lemon peel,,,
@@ -1016,18 +1016,8 @@ ingredients,2,,,Rye
 ,,1,2,Suze
 ,,1,2,Sweet Vermouth
 ,,1,8,Allspice Dram
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
 title,Blazing Saddles,,,
-category,,,,
+category,Testing,,,
 description,,,,
 source,Death & Co,,,
 garnish,Grapefruit peel,,,
@@ -1037,7 +1027,7 @@ ingredients,2,,,Whiskey
 ,6,,,Cinnamon
 ,1,,,Tiki bitters
 title,Los Amargos,,,
-category,,,,
+category,Testing,,,
 description,,,,
 source,Death & Co,,,
 garnish,,,,
