@@ -6,11 +6,7 @@ import { Recipe } from "@/utils/recipes";
 import { Center, IconButton } from "@chakra-ui/react";
 import { useRouter } from "next/navigation";
 
-export default async function RecipeButtons({
-  recipes,
-}: {
-  recipes: Recipe[];
-}) {
+export default function RecipeButtons({ recipes }: { recipes: Recipe[] }) {
   const router = useRouter();
 
   return (
